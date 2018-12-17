@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sito>
+	<pagina id="index">
+		<titolo>
+			CIBOVAGANDO - Food&amp;Wine Personal Shopper
+		</titolo>
+		<paragrafo id="1">
+			<sottotitolo>
+				Esperienze Enogastronomiche di Qualità - Taste Trails Planning
+			</sottotitolo>
+			<testo>
+				Cibovagando ti permette di scoprire i migliori prodotti enogastronomici del Monferrato! 
+				Il nostro Food&amp;Wine personal shopper vi guiderà attraverso un vero e proprio percorso del 
+				gusto tra la storiche vie di Casale Monferrato o per le splendide colline del Monferrato che 
+				la circondano, per un'esperienza culinaria di qualità tra i sapori della tradizione e la cucina più innovativa.  
+				Il nostro Personal Shopper selezionerà per voi le migliori botteghe alimentari, produttori, 
+				aziende agricole e ristoratori per farvi godere dei prodotti locali d'eccellenza, con il miglior 
+				rapporto qualità prezzo. Saprà consigliarvi durante la scelta dei piatti più indicati ai vostri gusti, 
+				darvi utili suggerimenti gastronomici per cucinare ciò che acquisterete, informazioni sugli 
+				ingredienti e la storia dei piatti e dei prodotti tipici, consigli sul valore nutrizionale 
+				degli alimenti e assistenza nell'acquisto del prodotto.
+			</testo>
+		</paragrafo>
+		<paragrafo id="2">
+			<sottotitolo>
+				Come funziona?
+			</sottotitolo>
+			<testo>
+				Il nostro personale qualificato vi accompagnerà presso gli operatori alimentari selezionati 
+				in base al percorso tematico scelto o in base alle vostre specifiche richieste, ad acquistare 
+				i prodotti tipici del territorio, per un tempo da voi stabilito compreso tra due ore e un'intera giornata. 
+				Attraverso la Cibovagando Card avrete diritto ad una serie di sconti su alcuni prodotti 
+				precedentemente selezionati e ad un menù creato ad hoc per i nostri clienti.
+			</testo>
+		</paragrafo>
+		<paragrafo id="3">
+			<sottotitolo>
+				La Cibovagando Card
+			</sottotitolo>
+			<testo>
+				Attraverso una convenzione con i migliori esercenti e produttori, siamo in grado di offrirvi 
+				un'esclusiva scontistica sui prodotti tipici come muletta, crema di cioccolato e nocciole igp, 
+				agnolotti, vini tipici del Monferrato Casalese, la monferrina di pasta dura e molti altri. 
+				Vi consentirà inoltre di accedere ai menù appositamente ideati per Cibovagando, che vi permetteranno 
+				di assaggiare i migliori piatti monferrini con un occhio speciale al prezzo su diverse fasce di budget. 
+				Comprende, infine, una scontistica su alcuni prodotti non enogastronomici.
+				La card è inclusa nel nostro servizio di Food &amp; Wine Personal Shopper e riutilizzabile per due 
+				volte nell'arco di un anno. Vi verrà consegnata dal F&amp;W Personal Shopper e dovrà essere esibita 
+				in caso di acquisto.
+			</testo>
+		</paragrafo>
+	</pagina>
+</sito>
